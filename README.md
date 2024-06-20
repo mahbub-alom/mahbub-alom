@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Mahbub Alom</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h2 align="center">I'm a MERN Stack Developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahbub-alom&label=Profile%20views&color=0e75b6&style=flat" alt="mahbub-alom" /> </p>
 
